@@ -1,0 +1,3 @@
+/mnt/e/OpenGl/AssignmentLast/0/code/code/CMakeFiles/Assignment04.dir
+/mnt/e/OpenGl/AssignmentLast/0/code/code/CMakeFiles/edit_cache.dir
+/mnt/e/OpenGl/AssignmentLast/0/code/code/CMakeFiles/rebuild_cache.dir

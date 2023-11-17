@@ -1,0 +1,3 @@
+/mnt/e/OpenGl/labs/lab3/lab3/CMakeFiles/lab3.dir
+/mnt/e/OpenGl/labs/lab3/lab3/CMakeFiles/edit_cache.dir
+/mnt/e/OpenGl/labs/lab3/lab3/CMakeFiles/rebuild_cache.dir

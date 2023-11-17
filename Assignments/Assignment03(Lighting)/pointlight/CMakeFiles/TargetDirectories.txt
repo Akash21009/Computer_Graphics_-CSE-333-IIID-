@@ -1,0 +1,3 @@
+/mnt/e/OpenGl/Lighting/n/partA/code/code/CMakeFiles/Assignment03.dir
+/mnt/e/OpenGl/Lighting/n/partA/code/code/CMakeFiles/edit_cache.dir
+/mnt/e/OpenGl/Lighting/n/partA/code/code/CMakeFiles/rebuild_cache.dir

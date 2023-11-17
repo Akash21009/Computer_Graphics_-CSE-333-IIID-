@@ -1,0 +1,3 @@
+/mnt/e/OpenGl/labs/lab5Gouraud/lab5/CMakeFiles/lab5.dir
+/mnt/e/OpenGl/labs/lab5Gouraud/lab5/CMakeFiles/edit_cache.dir
+/mnt/e/OpenGl/labs/lab5Gouraud/lab5/CMakeFiles/rebuild_cache.dir

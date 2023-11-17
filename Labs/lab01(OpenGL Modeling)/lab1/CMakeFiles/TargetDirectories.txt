@@ -1,0 +1,3 @@
+/mnt/e/Opengl/labs/lab1_Akash_2021009/lab1/CMakeFiles/lab1.dir
+/mnt/e/Opengl/labs/lab1_Akash_2021009/lab1/CMakeFiles/edit_cache.dir
+/mnt/e/Opengl/labs/lab1_Akash_2021009/lab1/CMakeFiles/rebuild_cache.dir
