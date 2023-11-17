@@ -2,6 +2,13 @@
 
 To run any assignment or lab, follow these steps in your terminal:
 
-1. **Delete the following files if they exist:**
+1. **run this command to view output**
    ```bash
-   rm -f Makefile CMake_install.cmake CMakeCache.txt <laborassignmentname>.exe
+   ./<laborassignmentname>
+   
+** example**
+   ```bash
+    ./Assignment01
+
+
+
