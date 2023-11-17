@@ -1,6 +1,7 @@
-#for all the assignments and labs go to the terminal and type ./<laborassignmentname> to run and view output
-#In case you make any changes in code follow these steps:
--delete the Makefile, Cmake_install.cmake CMakecache.txt, and <laborassignmentname>.exe
--run cmake CMakeLists.txt
--run make
--run ./<assignmentorlabname>
+# Assignment and Lab Instructions
+
+To run any assignment or lab, follow these steps in your terminal:
+
+1. **Delete the following files if they exist:**
+   ```bash
+   rm -f Makefile CMake_install.cmake CMakeCache.txt <laborassignmentname>.exe
